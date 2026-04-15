@@ -192,4 +192,4 @@ This MCP is intended for private use and is not currently accepting external con
 
 ---
 
-© 2026 Your Name. MIT License.
+© 2026 TheTekTeam. MIT License.
